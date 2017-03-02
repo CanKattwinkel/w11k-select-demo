@@ -31,4 +31,4 @@ See Project Website at http://w11k.github.com/w11k-select
 
 ## License
 
-MIT - see LICENSE file
+see LICENSE file
